@@ -57,5 +57,6 @@
 ### Анализ выручки по группам
 <img src="screenshots/sumif_1.png" width="49%" /> <img src="screenshots/sumif_2.png" width="49%" />
 
-## Презентация
-📄 [Скачать презентацию PDF](Презентация.pdf) *(будет добавлена после создания)*
+## 📄 Презентация
+
+ [Скачать презентацию в PDF](Case1_Presentation.pdf)
