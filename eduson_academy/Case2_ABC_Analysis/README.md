@@ -95,19 +95,13 @@
 
 ## Визуализация
 
-### Исходные данные
-![Исходные данные](screenshots/01_source.png)
+### Этап 1: Исходные данные и очистка
+<img src="screenshots/01_source.png" width="49%" /> <img src="screenshots/02_cleaning.png" width="49%" />
 
-### Очистка и структура
-![Очистка и структура](screenshots/02_cleaning.png)
-
-### ABC-сегментация
-![ABC-сегментация](screenshots/03_abc.png)
-
-### KPI и оценка
-![KPI и оценка](screenshots/04_kpi.png)
+### Этап 2: ABC-сегментация и KPI-оценка
+<img src="screenshots/03_abc.png" width="49%" /> <img src="screenshots/04_kpi.png" width="49%" />
 
 ### Дашборд
-![Дашборд](screenshots/05_dashboard.png)
+<img src="screenshots/05_dashboard.png" width="100%" />
 
 ## 📄 Презентация
