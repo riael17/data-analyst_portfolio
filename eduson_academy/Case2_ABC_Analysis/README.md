@@ -105,3 +105,4 @@
 <img src="screenshots/05_dashboard.png" width="100%" />
 
 ## 📄 Презентация
+[Скачать презентацию в PDF](Case2_Presentation.pdf)
