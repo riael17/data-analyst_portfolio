@@ -96,18 +96,18 @@
 ## Визуализация
 
 ### Исходные данные
-![Исходные данные](screenshots/01_source)
+![Исходные данные](screenshots/01_source.png)
 
 ### Очистка и структура
-![Очистка и структура](screenshots/02_cleaning)
+![Очистка и структура](screenshots/02_cleaning.png)
 
 ### ABC-сегментация
-![ABC-сегментация](screenshots/03_abc)
+![ABC-сегментация](screenshots/03_abc.png)
 
 ### KPI и оценка
-![KPI и оценка](screenshots/04_kpi)
+![KPI и оценка](screenshots/04_kpi.png)
 
 ### Дашборд
-![Дашборд](screenshots/05_dashboard)
+![Дашборд](screenshots/05_dashboard.png)
 
 ## 📄 Презентация
