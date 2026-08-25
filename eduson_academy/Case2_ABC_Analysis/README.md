@@ -108,10 +108,10 @@ C — 5 (6%).
 
 ## Визуализация
 
-### Этап 1: Исходные данные и транспонирование
+### Исходные данные и транспонирование
 <img src="screenshots/01_source.png" width="49%" /> <img src="screenshots/02_cleaning.png" width="49%" />
 
-### Этап 2: ABC-сегментация и KPI-оценка
+### ABC-сегментация и KPI-оценка
 <img src="screenshots/03_abc.png" width="49%" /> <img src="screenshots/04_kpi.png" width="49%" />
 
 ### Дашборд
