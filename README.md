@@ -45,7 +45,7 @@ Excel | SQL | Python | Pandas | Power BI
 | 2 | [ABC-анализ отдела продаж](Case2_ABC_Analysis/README.md) | Сегментация менеджеров по вкладу в выручку (ABC), расчёт мотивации, анализ выполнения плана, дашборд с KPI | ✅ завершён | Excel (ЕСЛИ/И/ИЛИ/НЕ, ABC-анализ, сводные таблицы, СЧЁТЕСЛИМН, условное форматирование, диаграммы) |
 | 3 | [SQL-запросы для анализа продаж](Case3_Northwind/README.md) | Написание SQL-запросов для извлечения и агрегации данных из реляционной базы данных | ✅ завершён | SQL (PostgreSQL, DBeaver, SELECT, WHERE, ORDER BY, LIKE, CASE) |
 | 4 | [Оптимизация складских запасов и ABC-анализ](Case4_Global-foods-abc-analysis/README.md) | Комплексный анализ ассортимента: ABC-сегментация, поиск дефицита, рейтинг поставщиков, создание витрины данных | ✅ завершён | SQL (PostgreSQL, DBeaver, CTE, оконные функции, DENSE_RANK, AVG OVER, CREATE TABLE AS, LEFT JOIN) |
-| 5 | [Анализ факторов стоимости медицинского страхования] (Case05_Medical_Insurance_EDA/README.md) | Работа с библиотекой Pandas для предобработки и очистки данных | ✅ завершён | Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook / VS Code|
+| 5 | [Анализ факторов стоимости медицинского страхования] (Case05_Medical_Insurance_data_viz/README.md) | Работа с библиотекой Pandas для предобработки и очистки данных | ✅ завершён | Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook / VS Code|
 | 6 |  |  | 🔄 в процессе |  |
 
 ---
